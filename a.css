@@ -1,0 +1,32 @@
+*{
+    direction: rtl;
+}
+
+.div1{
+    height: 80px;
+}
+
+.div3{
+    height: 150px;
+    background-image: url(footer_bg_yellow.jpg);
+}
+
+h5{
+    direction: ltr;
+    margin-left: 49%;
+   
+}
+h3{
+    margin-top: 15px;
+    margin-right: 23%;
+}
+h5 a{
+    text-decoration: none;
+}
+
+
+h3 a{
+
+    text-decoration: none;
+}
+
